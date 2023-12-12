@@ -1,2 +1,2 @@
 # Stock-prediction-using-ARIMA
-Stock prediction using ARIMA
+Author - Avinash Pandey
